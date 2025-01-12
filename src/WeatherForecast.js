@@ -40,6 +40,6 @@ export default function WeatherForecast(props) {
 
     axios.get(apiUrl).then(handleResponse);
 
-    return null;
+    return "Loading...";
   }
 }
