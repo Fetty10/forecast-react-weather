@@ -3,3 +3,7 @@
   margin: 10px 0;
   text-align: center;
 }
+
+.App footer a {
+  text-decoration: none;
+}
